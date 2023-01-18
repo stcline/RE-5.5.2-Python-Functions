@@ -24,3 +24,5 @@ The goal of this lab assignment is to introduce you to functions in a way that m
 
 ## 📚  Resources 
 [Think Python Textbook](https://greenteapress.com/wp/think-python-2e/)
+
+[Computer Science 1 Course at Rensselaer Polytechnic](https://www.cs.rpi.edu/academics/courses/spring16/cs1/course_notes.html)
