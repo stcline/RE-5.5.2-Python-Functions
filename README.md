@@ -1,36 +1,26 @@
-# :robot: Loops and Conditionals
+# :robot: Functions
 
 ## 🤓 Overview and learning outcomes 
+Functions are the whole deal in coding.  They allow us to perform repetitive subroutines without the need to rewrite them. Later, we will learn to combine the functions we write into classes which leverage the power of object-oriented programming even more.  In this lab you will begin to build your own functions.
 
-Decision making and iteration are the key to robotics applications.  Finally, we will begin to build some "intelligence" into the programs we will write in Python.  In this lab you will learn to use loops and conditionals like `while`, `for`, `if`, `elif` and `else` as well as **Boolean Arguments**.
-
-The goal of this lab assignment is to introduce you to loops and conditionals so you may begin to build some complexity into your programs. 🚀
+The goal of this lab assignment is to introduce you to functions in a way that makes them accessible to you in the future. 🚀
 
 #### Over the course of this lab you will do a number of things:
-1. Practice using `while` and `for` loops for iteration.
-2. Begin to practice with conditionals.
-3. Build Boolean Arguments for robotic decision making.
-4. Utilize Git on your Raspberry Pi to make changes.
+1. Learn the anatomy and syntax of functions in Python.
+2. Practice using functions to streamline programs.
+3. Begin writing your own functions.
 
 ## 💻 Terms to know
-- conditionals
-- loops
-- iteration
-- `for`
-- `while`
-- `if`
-- `else`
-- `elif`
-- Boolean Arguments
-- indentation
+- functions
+- parameters
+- `eval()`
 
 ## 📝 Next steps
-1. Complete the work in the notebook here (5.4.1-Python_Programs_Variables_Strings.ipynb) using the CoLab interface.
+1. Complete the work in the notebook here (5.5.1-Functions.ipynb) using the CoLab interface.
 2. Using GIT, add the repo to your raspberry pi.
 3. Using NANO and the terminal in your pi, create a new text file called "observations.txt" and write what you learned in this lab.
+4. Using NANO write a script called `myFirstFunction.py` which contains a unique function you write which is also called in the script.
 4. Commit and Push the code to your repo so that I will be able to read your new text file from GitHub.
 
 ## 📚  Resources 
 [Think Python Textbook](https://greenteapress.com/wp/think-python-2e/)
-
-[Raspberry Pi Foundation - Getting Started with Git](https://projects.raspberrypi.org/en/projects/getting-started-with-git)
