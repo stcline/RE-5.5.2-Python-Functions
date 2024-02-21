@@ -16,7 +16,7 @@ The goal of this lab assignment is to introduce you to functions in a way that m
 - `eval()`
 
 ## 📝 Next steps
-1. Complete the work in the notebook here (5.5.1-Functions.ipynb) using the CoLab interface.
+1. Complete the work in the notebook here (5.5.2-Functions.ipynb) using the CoLab interface.
 2. Using GIT, add the repo to your raspberry pi.
 3. Using NANO and the terminal in your pi, create a new text file called "observations.txt" and write what you learned in this lab.
 4. Using NANO write a script called `myFirstFunction.py` which contains a unique function you write which is also called in the script.
